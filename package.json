@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "description": "blank.css space utilities for displaying content",
   "main": "index.js",
+  "style": "index.css",
+  "files": [
+    "index.js",
+    "index.css",
+    "lib"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
