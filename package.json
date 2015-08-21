@@ -1,0 +1,26 @@
+{
+  "name": "blank-css-display",
+  "version": "0.0.0",
+  "description": "blank.css space utilities for displaying content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blank-css/display.git"
+  },
+  "keywords": [
+    "css",
+    "suitcss",
+    "css",
+    "framework",
+    "blank-css"
+  ],
+  "author": "Vince Speelman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blank-css/display/issues"
+  },
+  "homepage": "https://github.com/blank-css/display#readme"
+}

@@ -1,0 +1,81 @@
+.blank-u-hide {
+	display: none !important;
+}
+
+.blank-u-show {
+	display: block !important;
+}
+
+.blank-u-ib {
+	display: inline-block !important;
+}
+
+@media(--bb) {
+	.blank-u-bb-hide {
+		display: none !important;
+	}
+
+	.blank-u-bb-show {
+		display: block !important;
+	}
+
+	.blank-u-bb-ib {
+		display: inline-block !important;
+	}
+}
+
+@media(--sm) {
+	.blank-u-sm-hide {
+		display: none !important;
+	}
+
+	.blank-u-sm-show {
+		display: block !important;
+	}
+
+	.blank-u-sm-ib {
+		display: inline-block !important;
+	}
+}
+
+@media(--md) {
+	.blank-u-md-hide {
+		display: none !important;
+	}
+
+	.blank-u-md-show {
+		display: block !important;
+	}
+
+	.blank-u-md-ib {
+		display: inline-block !important;
+	}
+}
+
+@media(--lg) {
+	.blank-u-lg-hide {
+		display: none !important;
+	}
+
+	.blank-u-lg-show {
+		display: block !important;
+	}
+
+	.blank-u-lg-ib {
+		display: inline-block !important;
+	}
+}
+
+@media(--gg) {
+	.blank-u-gg-hide {
+		display: none !important;
+	}
+
+	.blank-u-gg-show {
+		display: block !important;
+	}
+
+	.blank-u-gg-ib {
+		display: inline-block !important;
+	}
+}
