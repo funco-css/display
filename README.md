@@ -26,7 +26,7 @@ now you have these classes at your disposal, where
 
 identifier | available
 ---------- | -----------
-`{type}`   | `show` or `hide`
+`{type}`   | `show` or `hide` or `ib`(inline-block)
 `{query}`  | `bb` or `sm` or `md` or `lg`
 
 ```css
