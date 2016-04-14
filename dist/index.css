@@ -1,0 +1,381 @@
+.display\/block {
+	display: block;
+}
+
+.d\/b {
+	display: block;
+}
+
+.display\/inline-block {
+	display: inline-block;
+}
+
+.d\/ib {
+	display: inline-block;
+}
+
+.display\/inline {
+	display: inline;
+}
+
+.d\/i {
+	display: inline;
+}
+
+.display\/flex {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+
+.d\/f {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+
+.display\/table {
+	display: table;
+}
+
+.d\/t {
+	display: table;
+}
+
+.display\/table-cell {
+	display: table-cell;
+}
+
+.d\/tc {
+	display: table-cell;
+}
+
+.display\/table-row {
+	display: table-row;
+}
+
+.d\/tr {
+	display: table-row;
+}
+
+@media (min-width: 20em) {
+	.display\/block\@xs {
+		display: block;
+	}
+
+	.d\/b\@xs {
+		display: block;
+	}
+
+	.display\/inline-block\@xs {
+		display: inline-block;
+	}
+
+	.d\/ib\@xs {
+		display: inline-block;
+	}
+
+	.display\/inline\@xs {
+		display: inline;
+	}
+
+	.d\/i\@xs {
+		display: inline;
+	}
+
+	.display\/flex\@xs {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+	}
+
+	.d\/f\@xs {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+	}
+
+	.display\/table\@xs {
+		display: table;
+	}
+
+	.d\/t\@xs {
+		display: table;
+	}
+
+	.display\/table-cell\@xs {
+		display: table-cell;
+	}
+
+	.d\/tc\@xs {
+		display: table-cell;
+	}
+
+	.display\/table-row\@xs {
+		display: table-row;
+	}
+
+	.d\/tr\@xs {
+		display: table-row;
+	}
+}
+
+@media (min-width: 30em) {
+	.display\/block\@sm {
+		display: block;
+	}
+
+	.d\/b\@sm {
+		display: block;
+	}
+
+	.display\/inline-block\@sm {
+		display: inline-block;
+	}
+
+	.d\/ib\@sm {
+		display: inline-block;
+	}
+
+	.display\/inline\@sm {
+		display: inline;
+	}
+
+	.d\/i\@sm {
+		display: inline;
+	}
+
+	.display\/flex\@sm {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+	}
+
+	.d\/f\@sm {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+	}
+
+	.display\/table\@sm {
+		display: table;
+	}
+
+	.d\/t\@sm {
+		display: table;
+	}
+
+	.display\/table-cell\@sm {
+		display: table-cell;
+	}
+
+	.d\/tc\@sm {
+		display: table-cell;
+	}
+
+	.display\/table-row\@sm {
+		display: table-row;
+	}
+
+	.d\/tr\@sm {
+		display: table-row;
+	}
+}
+
+@media (min-width: 37em) {
+	.display\/block\@md {
+		display: block;
+	}
+
+	.d\/b\@md {
+		display: block;
+	}
+
+	.display\/inline-block\@md {
+		display: inline-block;
+	}
+
+	.d\/ib\@md {
+		display: inline-block;
+	}
+
+	.display\/inline\@md {
+		display: inline;
+	}
+
+	.d\/i\@md {
+		display: inline;
+	}
+
+	.display\/flex\@md {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+	}
+
+	.d\/f\@md {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+	}
+
+	.display\/table\@md {
+		display: table;
+	}
+
+	.d\/t\@md {
+		display: table;
+	}
+
+	.display\/table-cell\@md {
+		display: table-cell;
+	}
+
+	.d\/tc\@md {
+		display: table-cell;
+	}
+
+	.display\/table-row\@md {
+		display: table-row;
+	}
+
+	.d\/tr\@md {
+		display: table-row;
+	}
+}
+
+@media (min-width: 43em) {
+	.display\/block\@lg {
+		display: block;
+	}
+
+	.d\/b\@lg {
+		display: block;
+	}
+
+	.display\/inline-block\@lg {
+		display: inline-block;
+	}
+
+	.d\/ib\@lg {
+		display: inline-block;
+	}
+
+	.display\/inline\@lg {
+		display: inline;
+	}
+
+	.d\/i\@lg {
+		display: inline;
+	}
+
+	.display\/flex\@lg {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+	}
+
+	.d\/f\@lg {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+	}
+
+	.display\/table\@lg {
+		display: table;
+	}
+
+	.d\/t\@lg {
+		display: table;
+	}
+
+	.display\/table-cell\@lg {
+		display: table-cell;
+	}
+
+	.d\/tc\@lg {
+		display: table-cell;
+	}
+
+	.display\/table-row\@lg {
+		display: table-row;
+	}
+
+	.d\/tr\@lg {
+		display: table-row;
+	}
+}
+
+@media (min-width: 50em) {
+	.display\/block\@xl {
+		display: block;
+	}
+
+	.d\/b\@xl {
+		display: block;
+	}
+
+	.display\/inline-block\@xl {
+		display: inline-block;
+	}
+
+	.d\/ib\@xl {
+		display: inline-block;
+	}
+
+	.display\/inline\@xl {
+		display: inline;
+	}
+
+	.d\/i\@xl {
+		display: inline;
+	}
+
+	.display\/flex\@xl {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+	}
+
+	.d\/f\@xl {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+	}
+
+	.display\/table\@xl {
+		display: table;
+	}
+
+	.d\/t\@xl {
+		display: table;
+	}
+
+	.display\/table-cell\@xl {
+		display: table-cell;
+	}
+
+	.d\/tc\@xl {
+		display: table-cell;
+	}
+
+	.display\/table-row\@xl {
+		display: table-row;
+	}
+
+	.d\/tr\@xl {
+		display: table-row;
+	}
+}

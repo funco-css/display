@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Funco: Display Test</title>
+		<link rel="stylesheet" href="../dist/index.css" />
+		<style>
+			html {
+				font-family: Verdana;
+				box-sizing: border-box;
+			}
+
+			* {
+				box-sizing: inherit;
+			}
+
+			code {
+				font-size: 1rem;
+			}
+
+			.funco\/box {
+				border: 1px solid black;
+				margin-bottom: 1rem;
+				padding: 1rem;
+				background-color: #ccc;
+			}
+
+			.funco\/box > dt {
+				background: #333;
+				color: #fff;
+			}
+		</style>
+	</head>
+	<body>
+		<header role="banner">
+			<h1>Funco: Display Test</h1>
+		</header>
+		<main role="main">
+			<section>
+				<h2>Display</h2>
+				<ol>
+					<li>
+						<section>
+							<dl class="funco/tests">
+
+								<div class="funco/box">
+									<dt class="display/block">
+										display / block
+									</dt>
+									<dd><code>`.display/block`</code></dd>
+								</div>
+								<div class="funco/box">
+									<dt class="d/b">
+										Shorthand: display / block
+									</dt>
+									<dd><code>`.d/b`</code></dd>
+								</div>
+
+								<div class="funco/box">
+									<dt class="display/inline">
+										display / inline
+									</dt>
+									<dd><code>`.display/inline`</code></dd>
+								</div>
+								<div class="funco/box">
+									<dt class="d/i">
+										Shorthand: display / inline
+									</dt>
+									<dd><code>`.d/i`</code></dd>
+								</div>
+
+								<div class="funco/box">
+									<dt class="display/inline-block">
+										display / inline-block
+									</dt>
+									<dd><code>`.display/inline-block`</code></dd>
+								</div>
+								<div class="funco/box">
+									<dt class="d/ib">
+										Shorthand: display / inline-block
+									</dt>
+									<dd><code>`.d/ib`</code></dd>
+								</div>
+
+								<div class="funco/box">
+									<dt class="display/flex">
+										display / flex
+									</dt>
+									<dd><code>`.display/flex`</code></dd>
+								</div>
+								<div class="funco/box">
+									<dt class="d/f">
+										Shorthand: display / flex
+									</dt>
+									<dd><code>`.d/f`</code></dd>
+								</div>
+
+								<div class="funco/box">
+									<dt class="display/table">
+										display / table
+									</dt>
+									<dd><code>`.display/table`</code></dd>
+								</div>
+								<div class="funco/box">
+									<dt class="d/t">
+										Shorthand: display / table
+									</dt>
+									<dd><code>`.d/t`</code></dd>
+								</div>
+
+								<div class="funco/box">
+									<dt class="display/tcable-cell">
+										display / table-cell
+									</dt>
+									<dd><code>`.display/tcable-cell`</code></dd>
+								</div>
+								<div class="funco/box">
+									<dt class="d/tc">
+										Shorthand: display / table-cell
+									</dt>
+									<dd><code>`.d/tc`</code></dd>
+								</div>
+
+							</dl>
+						</section>
+					</li>
+				</ol>
+			</section>
+		</main>
+		<script id="__bs_script__">//<![CDATA[
+				document.write("<script async src='http://HOST:1337/browser-sync/browse
+		r-sync-client.2.11.2.js'><\/script>".replace("HOST", location.hostname));
+		//]]></script>
+	</body>
+</html>

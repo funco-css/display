@@ -1,0 +1,8 @@
+@import "./lib/short/index.css";
+@import "./lib/long/index.css";
+
+@custom-media --mq-xs (min-width: 20em);
+@custom-media --mq-sm (min-width: 30em);
+@custom-media --mq-md (min-width: 37em);
+@custom-media --mq-lg (min-width: 43em);
+@custom-media --mq-xl (min-width: 50em);

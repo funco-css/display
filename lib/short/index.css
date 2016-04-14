@@ -1,0 +1,167 @@
+.d\/b {
+	display: block;
+}
+
+.d\/ib {
+	display: inline-block;
+}
+
+.d\/i {
+	display: inline;
+}
+
+.d\/f {
+	display: flex;
+}
+
+.d\/t {
+	display: table;
+}
+
+.d\/tc {
+	display: table-cell;
+}
+
+.d\/tr {
+	display: table-row;
+}
+
+@media (--mq-xs) {
+	.d\/b\@xs {
+		display: block;
+	}
+	.d\/ib\@xs {
+		display: inline-block;
+	}
+	.d\/i\@xs {
+		display: inline;
+	}
+
+	.d\/f\@xs {
+		display: flex;
+	}
+
+	.d\/t\@xs {
+		display: table;
+	}
+
+	.d\/tc\@xs {
+		display: table-cell;
+	}
+
+	.d\/tr\@xs {
+		display: table-row;
+	}
+}
+
+@media (--mq-sm) {
+	.d\/b\@sm {
+		display: block;
+	}
+	.d\/ib\@sm {
+		display: inline-block;
+	}
+	.d\/i\@sm {
+		display: inline;
+	}
+
+	.d\/f\@sm {
+		display: flex;
+	}
+
+	.d\/t\@sm {
+		display: table;
+	}
+
+	.d\/tc\@sm {
+		display: table-cell;
+	}
+
+	.d\/tr\@sm {
+		display: table-row;
+	}
+}
+
+@media (--mq-md) {
+	.d\/b\@md {
+		display: block;
+	}
+	.d\/ib\@md {
+		display: inline-block;
+	}
+	.d\/i\@md {
+		display: inline;
+	}
+
+	.d\/f\@md {
+		display: flex;
+	}
+
+	.d\/t\@md {
+		display: table;
+	}
+
+	.d\/tc\@md {
+		display: table-cell;
+	}
+
+	.d\/tr\@md {
+		display: table-row;
+	}
+}
+
+@media (--mq-lg) {
+	.d\/b\@lg {
+		display: block;
+	}
+	.d\/ib\@lg {
+		display: inline-block;
+	}
+	.d\/i\@lg {
+		display: inline;
+	}
+
+	.d\/f\@lg {
+		display: flex;
+	}
+
+	.d\/t\@lg {
+		display: table;
+	}
+
+	.d\/tc\@lg {
+		display: table-cell;
+	}
+
+	.d\/tr\@lg {
+		display: table-row;
+	}
+}
+
+@media (--mq-xl) {
+	.d\/b\@xl {
+		display: block;
+	}
+	.d\/ib\@xl {
+		display: inline-block;
+	}
+	.d\/i\@xl {
+		display: inline;
+	}
+
+	.d\/f\@xl {
+		display: flex;
+	}
+
+	.d\/t\@xl {
+		display: table;
+	}
+
+	.d\/tc\@xl {
+		display: table-cell;
+	}
+
+	.d\/tr\@xl {
+		display: table-row;
+	}
+}

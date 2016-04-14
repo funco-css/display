@@ -1,0 +1,177 @@
+.display\/block {
+	display: block;
+}
+
+.display\/inline-block {
+	display: inline-block;
+}
+
+.display\/inline {
+	display: inline;
+}
+
+.display\/flex {
+	display: flex;
+}
+
+.display\/table {
+	display: table;
+}
+
+.display\/table-cell {
+	display: table-cell;
+}
+
+.display\/table-row {
+	display: table-row;
+}
+
+@media (--mq-xs) {
+	.display\/block\@xs {
+		display: block;
+	}
+
+	.display\/inline-block\@xs {
+		display: inline-block;
+	}
+
+	.display\/inline\@xs {
+		display: inline;
+	}
+
+	.display\/flex\@xs {
+		display: flex;
+	}
+
+	.display\/table\@xs {
+		display: table;
+	}
+
+	.display\/table-cell\@xs {
+		display: table-cell;
+	}
+
+	.display\/table-row\@xs {
+		display: table-row;
+	}
+}
+
+@media (--mq-sm) {
+	.display\/block\@sm {
+		display: block;
+	}
+
+	.display\/inline-block\@sm {
+		display: inline-block;
+	}
+
+	.display\/inline\@sm {
+		display: inline;
+	}
+
+	.display\/flex\@sm {
+		display: flex;
+	}
+
+	.display\/table\@sm {
+		display: table;
+	}
+
+	.display\/table-cell\@sm {
+		display: table-cell;
+	}
+
+	.display\/table-row\@sm {
+		display: table-row;
+	}
+}
+
+@media (--mq-md) {
+	.display\/block\@md {
+		display: block;
+	}
+
+	.display\/inline-block\@md {
+		display: inline-block;
+	}
+
+	.display\/inline\@md {
+		display: inline;
+	}
+
+	.display\/flex\@md {
+		display: flex;
+	}
+
+	.display\/table\@md {
+		display: table;
+	}
+
+	.display\/table-cell\@md {
+		display: table-cell;
+	}
+
+	.display\/table-row\@md {
+		display: table-row;
+	}
+}
+
+@media (--mq-lg) {
+	.display\/block\@lg {
+		display: block;
+	}
+
+	.display\/inline-block\@lg {
+		display: inline-block;
+	}
+
+	.display\/inline\@lg {
+		display: inline;
+	}
+
+	.display\/flex\@lg {
+		display: flex;
+	}
+
+	.display\/table\@lg {
+		display: table;
+	}
+
+	.display\/table-cell\@lg {
+		display: table-cell;
+	}
+
+	.display\/table-row\@lg {
+		display: table-row;
+	}
+}
+
+@media (--mq-xl) {
+	.display\/block\@xl {
+		display: block;
+	}
+
+	.display\/inline-block\@xl {
+		display: inline-block;
+	}
+
+	.display\/inline\@xl {
+		display: inline;
+	}
+
+	.display\/flex\@xl {
+		display: flex;
+	}
+
+	.display\/table\@xl {
+		display: table;
+	}
+
+	.display\/table-cell\@xl {
+		display: table-cell;
+	}
+
+	.display\/table-row\@xl {
+		display: table-row;
+	}
+}
